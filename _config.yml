@@ -12,7 +12,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  francesco:
+  Francesco:
     name: Francesco Maria Moneta
     display_name: Francesco
     avatar: 'assets/images/avatar.png'
