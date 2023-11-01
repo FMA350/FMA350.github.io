@@ -12,7 +12,7 @@ comments: false
 and learning more about the history and cultures that surround us. 
 </p>
 <p>
-Professionally, I am a software engineer and my tool of choice is C++. At the moment, I am working in the FinTech industry
+Professionally, I am a software engineer and my tool of choice is C++. I am working in the FinTech industry
 and I am thoroughly enjoying the process of discovering the intricacies of this fascinating sector.
 <i>I like to solve complex problems with elegant solutions</i>.<br></p>
 <p>
