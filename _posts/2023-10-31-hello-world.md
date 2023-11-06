@@ -9,6 +9,7 @@ image: assets/images/sagan-apple-pie.jpeg
 description: "We needed to start somewhere..."
 featured: true
 hidden: false
+comments: true
 ---
 
 Hello world. <br>
