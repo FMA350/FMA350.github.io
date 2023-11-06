@@ -11,10 +11,11 @@ featured: true
 hidden: false
 ---
 
-Hello world.
-Hello world! I am not going to lie, writing here is truly exhilarating. 
-I am still trying to wrap my ahead around this, all of this. A virtual space
-I created. My space. This was long overdue.
+Hello world. <br>
+Hello world! <br>
+I have been wanting to put up a website in some shape or form for a while now. It is finally here.
+What an exciting beginning! It is, I believe, very human to want to share experiences and knowledge.
+We are social animals after all. 
 
 ### But why a blog?
 
