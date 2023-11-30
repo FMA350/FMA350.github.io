@@ -7,7 +7,7 @@ tags: [ helloworld ]
 language: English
 image: assets/images/sagan-apple-pie.jpeg
 description: "We needed to start somewhere..."
-featured: true
+featured: false
 hidden: false
 comments: true
 ---
