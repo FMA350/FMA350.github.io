@@ -7,7 +7,7 @@ tags: [ security mobile ]
 language: English
 image: assets/images/graphene.jpeg
 description: "We needed to start somewhere..."
-featured: true
+featured: false
 hidden: false
 comments: true
 ---
