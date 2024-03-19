@@ -13,7 +13,7 @@ comments: true
 ---
 
 
-## What is a partial function application and why is it different that currying?
+## What is a partial function application and why it is not currying
 
 > "Partial functions applications are oftern confused with currying. I know because I always confused the two!"
 
