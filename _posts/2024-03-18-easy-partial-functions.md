@@ -17,10 +17,12 @@ comments: true
 
 > "Partial functions applications are oftern confused with currying. I know because I always confused the two!"
 
-In theoretical computer science, partial function applications are an intriguing but frequently misinterpreted idea.
-It would be understandable to believe that they are too theoretical to have any real-world use. 
+In theoretical computer science, partial function applications are an intriguing but frequently misinterpreted idea. It would be understandable to believe that they are too theoretical to have any real-world use.
+
 However, this couldn't be further from the truth!
-Indeed, if you write C++ code, you have probably previously utilized partial function calls, even if you weren't aware of it. Furthermore, you are doing a disservice both your code and yourself if you are unaware of them.
+
+Indeed, if you write C++ code, you have probably previously utilized partial function calls, even if you weren't aware of it. 
+Furthermore, you are doing a disservice to both your code and yourself if you are unaware of them.
 
 But what are these partial functions anyway? Simply put, it is a means to "fix" some or all of a function's arguments, resulting in a new function that requires fewer arguments to achieve the same outcome.
 
