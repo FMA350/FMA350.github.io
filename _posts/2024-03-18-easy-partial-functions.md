@@ -15,7 +15,7 @@ comments: true
 
 ## What is a partial function application and why it is not currying
 
-> "Partial functions applications are oftern confused with currying. I know because I always confused the two!"
+> "Partial functions applications are often confused with currying. I know because I have always mixed the two up!"
 
 In theoretical computer science, partial function applications are an intriguing but frequently misinterpreted idea. It would be understandable to believe that they are too theoretical to have any real-world use.
 
