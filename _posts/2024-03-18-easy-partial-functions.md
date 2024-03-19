@@ -80,7 +80,7 @@ int main(int argv, char* argc[])
 }
 ```
 
-All hell breakes lose. Our friendly compiler points us in the right direction:
+All hell breakes loose. Our friendly compiler points us in the right direction:
 
 > main.cpp:15:12: error: invalid use of non-static member function ‘bool MyStruct::isZero(int)’
 >   15 |     cb = s.isZero;
