@@ -108,7 +108,7 @@ Let's do just that:
     cb = std::bind(&MyStruct::isZero, &s, std::placeholders::_1);
 ```
 
-What is happening? Bind is returning a function equivalent to isZero but with the first argument (MyStruct *this) set to the existing object. Afterwards, we use std::placeholds to indicate that the following argument remains as is. We are not going to fix it.
+What is happening? Bind is returning a function equivalent to isZero but with the first argument (MyStruct *this) set to the existing object. Afterwards, we use std::placeholds to indicate that the following argument remains as is. We are not going to bind it.
 
 Voila', we fixed our callback.
 
