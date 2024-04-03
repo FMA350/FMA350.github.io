@@ -23,7 +23,7 @@ comments: true
 
 ## Name mangling
 
-The witty and highbrowed readers will have "guessed" that the cause is name mangling, a technique used by C++ and other languages to translate a non-unique function name into a unique identifier. C++ allows for functions with eponymous names if the parameters are different, an approach dubbed function overloading. Another case is if the functions reside in different namespaces.
+The witty and highbrowed readers will have "guessed" that the cause is name mangling, a technique used by C++ and other languages to translate a non-unique function name into a unique identifier. C++ allows for functions with eponymous names if, for instance, the parameters are different, an approach dubbed function overloading. Another case is if the functions reside in different namespaces.
 But our build tools still requires unique identifiers, though. The solution? The compiler decorates, morphs, and mangles the names of the functions in the symbol's table. Critically,  languages that do not allow for homonymous functions, such as trusty old C, do not need to resort to these stratagems. Remember this detail, because we will exploit it later.
 
 Let's see an example:
