@@ -7,7 +7,7 @@ tags: [ cpp, development ]
 language: English
 image: assets/images/giants-causeway.jpg
 description: ""
-featured: true
+featured: false
 hidden: false
 comments: true
 ---
