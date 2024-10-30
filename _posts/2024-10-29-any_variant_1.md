@@ -22,7 +22,7 @@ You might have come across the term "strongly typed." This possibly mysterious p
     x = "nope"; // Assign to an integer variable a string literal, which causes a compile time error in C++
 ```
 
-In the case of C++, we tell the compiler that we will store integer values in our variable named `x`. The second statement, in which we try to assign a string literal to `x`, will have it complain! Now there are other languages, called "weakly typed," that do not enforce strict type correctness, such as Python or JavaScript. So then, why bother with strongly typed languages at all, one might ask? For a few important reasons: speed, efficiency, readability and sanitation, ease of debugging, among others. Still, there are times when the ability to be more elastic with types can become an advantage, even in a strongly typed language like C++.
+In the case of C++, we tell the compiler that we will store integer values in our variable named `x`. The second statement, in which we try to assign a string literal to `x`, will cause it to complain! Now there are other languages, called "weakly typed," that do not enforce strict type correctness, such as Python or JavaScript. So then, why bother with strongly typed languages at all, one might ask? For a few important reasons: speed, efficiency, readability and sanitation, ease of debugging, among others. Still, there are times when the ability to be more elastic with types can become an advantage, even in a strongly typed language like C++.
 
 ## std::variant
 Enter the `std::variant`, a templated container available since C++17, which is often portrayed as a better [union](https://dev.to/pauljlucas/unions-in-c-1ojj). `std::variant` allows us to store values that belong to the complete type set. This snippet:"
