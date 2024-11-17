@@ -7,7 +7,7 @@ tags: [ cpp, software, development ]
 language: English
 image: assets/images/Cooling-Tower.jpg
 description: ""
-featured: true
+featured: false
 hidden: false
 comments: true
 ---
