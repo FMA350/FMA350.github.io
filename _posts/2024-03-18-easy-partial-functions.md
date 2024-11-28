@@ -7,7 +7,7 @@ tags: [ cpp, development ]
 language: English
 image: assets/images/rope.jpg
 description: ""
-featured: true
+featured: false
 hidden: false
 comments: true
 ---
